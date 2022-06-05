@@ -1,3 +1,6 @@
-# Data mining project: soccer Players Overall Evaluation predictive Analysis:
-The Project about predicting future players thoese who would be signed by clubs according to their preformance, poisition 
-shooting , kicking there is too many features 
+# Data mining project: Soccer Players Overall Evaluation predictive Analysis and modeling:
+
+
+goal is to evaluate potential candidate. preformed data pre-processing by transforming features conducted predictive analysis developed regression model with 95% accuracy for selected player.
+
+Data set 
